@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US, ko-KR"
+locale                   : "en-US"
 title                    : "JUYEON CHO"
 title_separator          : "-"
 subtitle                 : "Linguistics" # site tagline that appears below site title in masthead
