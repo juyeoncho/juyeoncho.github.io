@@ -106,7 +106,7 @@ author:
   name             : "Juyeon Cho 조주연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Delaware"
-  location         : "Newark, DE"
+  location         : # "Newark, DE"
   email            : #"jycho@udel.edu"
   links:
     - label: "jycho@udel.edu"
