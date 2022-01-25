@@ -105,11 +105,11 @@ analytics:
 author:
   name             : "Juyeon Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "Syntax|Psycholinguistics"
   location         : "Newark, DE"
-  email            : "jycho@udel.edu"
+  email            : #"jycho@udel.edu"
   links:
-    - label: "Email"
+    - label: "jycho@udel.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jycho@udel.edu"
     - label: "Website"
