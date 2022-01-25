@@ -4,9 +4,6 @@ permalink: /cv/
 layout: single
 ---
 
-Please click below for my recent CV.
+Last updated: December, 2021
 
-> Last updated: December, 2021
-> ![Click]
-
-
+[CV_JuyeonCho.pdf](https://github.com/juyeoncho/juyeoncho.github.io/files/7930559/CV_JuyeonCho.pdf)
