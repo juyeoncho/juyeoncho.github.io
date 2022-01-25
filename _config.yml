@@ -110,7 +110,7 @@ author:
   email            : #"jycho@udel.edu"
   links:
     - label: "jycho@udel.edu"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jycho@udel.edu"
     - label: "UDel LingCogSci"
       icon: "fas fa-fw fa-university"
