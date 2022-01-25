@@ -138,9 +138,9 @@ author:
 footer:
   links:
     - label: "jycho@udel.edu"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jycho@udel.edu"
-    - label: "UDel LingCogSci
+    - label: "UDel LingCogSci"
       icon: "fas fa-fw fa-university"
       url: "https://www.lingcogsci.udel.edu"
     - label: "ResearchGate"
