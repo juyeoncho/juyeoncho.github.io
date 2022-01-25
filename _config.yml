@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-US, ko-KR"
 title                    : "JUYEON CHO"
 title_separator          : "-"
 subtitle                 : "Linguistics" # site tagline that appears below site title in masthead
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Juyeon Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : # "I am an **amazing** person."
   location         : "Newark, DE"
   email            : "jycho@udel.edu"
   links:
