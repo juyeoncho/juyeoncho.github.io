@@ -112,6 +112,12 @@ author:
     - label: "jycho@udel.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jycho@udel.edu"
+    - label: "UDel LingCogSci
+      icon: "fas fa-fw fa-university"
+      url: "https://www.lingcogsci.udel.edu"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Juyeon-Cho-3"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,6 +137,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "jycho@udel.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jycho@udel.edu"
+    - label: "UDel LingCogSci
+      icon: "fas fa-fw fa-university"
+      url: "https://www.lingcogsci.udel.edu"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Juyeon-Cho-3"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
