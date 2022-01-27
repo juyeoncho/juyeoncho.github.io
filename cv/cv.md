@@ -1,5 +1,7 @@
 ---
 title: "Curriculum Vitae"
+permalink: /about/
+layout: single
 ---
 
 <!--- Last updated: December, 2021 --->
