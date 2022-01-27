@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-permalink: /about/
+permalink: /cv/
 layout: single
 ---
 
