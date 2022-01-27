@@ -6,8 +6,9 @@ layout: single
 
 ### Papers
 
-Tomioka, Satoshi, and Juyeon Cho. Submitted. The Honorific Mismatch in Korean and Japanese
+Tomioka, Satoshi and Juyeon Cho. Submitted. The Honorific Mismatch in Korean and Japanese
 and its Implications in Pragmatic and Social Meaning. Contrastive Pragmatics.
+
 Cho, Juyeon. 2018. Korean Wh-island Effects in Scrambling Constructions. In S. Fukuda, M. S.
 Kim, and M.-J. Park (Eds.), Proceedings of the 25th Japanese/Korean Linguistics Conference
 (JK25).
