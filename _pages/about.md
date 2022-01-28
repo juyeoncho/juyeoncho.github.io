@@ -16,4 +16,4 @@ I am a Ph.D. student in the Department of [Linguistics and Cognitive Science at 
 - Psycholinguistics
 - East Asian languages
 
-{: .text-justify} 
+{: .text-justify}
