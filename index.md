@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: home
+layout: single
 author_profile: true
 ---
 <br>
