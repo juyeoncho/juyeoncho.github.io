@@ -1,8 +1,10 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 layout: single
 ---
+
+# Research
 
 ### Papers
 
