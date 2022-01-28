@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-permlink: /cv/
+permalink: /cv/
 layout: single
 ---
 <br>
