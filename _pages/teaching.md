@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Teaching"
 permalink: /teaching/
 layout: single
 ---
-
-# Teaching
 
 ### At the ***University of Delaware***
 
