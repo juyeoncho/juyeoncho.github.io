@@ -15,7 +15,7 @@ layout: single
 
   Fall 2021  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
 
-  Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING 202 Science of Language
+  Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING202 Science of Language
 
   Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
 
