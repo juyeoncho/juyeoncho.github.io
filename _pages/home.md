@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /
-layout: single
+layout: home
 ---
 <br>
 Welcome!
