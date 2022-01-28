@@ -36,3 +36,4 @@ at the 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA
 Cho, Juyeon. 2017. Wh-island Effects in Korean Scrambling Constructions. Poster presented at
 the 31st Pacific Asia Conference on Language, Information, and Computation (PACLIC31).
 University of Philippines, Cebu. November 16-18, 2017.
+{: .text-justify}
