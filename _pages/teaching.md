@@ -6,39 +6,40 @@ layout: single
 
 ### At the ***University of Delaware***
 
-**Instructor**
+- **Instructor**
 
-Spring 2022 &ensp;        LING/CGSC 496/696 Psycholinguistics
+  Spring 2022 (　） LING/CGSC496/696 Psycholinguistics
 
 
-**Teaching assistant**
+- **Teaching assistant**
 
-Fall 2021   &emsp;&emsp;  LING101 Introduction to Linguistics I (Instructor: Dr. Darrell Larsen)
+  Fall 2021 - LING101 Introduction to Linguistics
 
-Spring 2021 &ensp;        LING 202 Science of Language (Instructor: Dr. Darrell Larsen)
+  Spring 2021 - LING 202 Science of Language
 
-Fall 2020   &emsp; &ensp; LING101 Introduction to Linguistics I (Instructor: Dr. Darrell Larsen)
+  Fall 2020 - LING101 Introduction to Linguistics
 
-Spring 2020 &nbsp;        LING101 Introduction to Linguistics I (Instructor: Dr. Darrell Larsen)
+  Spring 2020 LING101 Introduction to Linguistics
 
-Fall 2019   &emsp;&ensp;&ensp;  LING101 Introduction to Linguistics I (Instructor: Dursun Altinok)
+  Fall 2019 LING101 Introduction to Linguistics
 
 ---
 
 ### At *Seoul National University*
 
-**Teaching assistant**
+- **Teaching assistant**
 
-Spring 2018   &ensp;        Modern Society and Global Language
+  Spring 2018 Modern Society and Global Language
 
-Fall 2017     &emsp;&emsp;  English Discourse Analysis
+  Fall 2017 English Discourse Analysis
 
-Summer 2017   &nbsp;        College English
+  Summer 2017 College English
 
-Fall 2016     &emsp;&emsp;  English Corpus Linguistics
+  Fall 2016 English Corpus Linguistics
 
-Summer 2016   &nbsp;        College English
+  Summer 2016 College English
 
-Spring 2016   &ensp;        History of English Language
+  Spring 2016 History of English Language
 
-Fall 2015    &emsp;&emsp;   English Corpus Linguistics
+  Fall 2015 English Corpus Linguistics
+{: .text-justify}
