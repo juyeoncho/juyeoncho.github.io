@@ -55,7 +55,9 @@ body {
     width: 100%;
     clear: both;
 
-    .page__content,
+    .page__content {
+      text-align: justify;
+    }
     .page__meta,
     .page__share {
       position: relative;
@@ -88,7 +90,6 @@ body {
 }
 
 .page__content {
-  text-align: justify;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
