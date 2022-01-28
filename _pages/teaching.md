@@ -8,20 +8,20 @@ layout: single
 
 - **Instructor**
 
-  Spring 2022 (　） LING/CGSC496/696 Psycholinguistics
+  Spring 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING/CGSC496/696 Psycholinguistics
 
 
 - **Teaching assistant**
 
-  Fall 2021 - LING101 Introduction to Linguistics
+  Fall 2021  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
 
-  Spring 2021 - LING 202 Science of Language
+  Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING 202 Science of Language
 
-  Fall 2020 - LING101 Introduction to Linguistics
+  Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
 
-  Spring 2020 LING101 Introduction to Linguistics
+  Spring 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LING101 Introduction to Linguistics
 
-  Fall 2019 LING101 Introduction to Linguistics
+  Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
 
 ---
 
@@ -29,17 +29,17 @@ layout: single
 
 - **Teaching assistant**
 
-  Spring 2018 Modern Society and Global Language
+  Spring 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Society and Global Language
 
-  Fall 2017 English Discourse Analysis
+  Fall 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Discourse Analysis
 
-  Summer 2017 College English
+  Summer 2017 &nbsp;&nbsp; College English
 
-  Fall 2016 English Corpus Linguistics
+  Fall 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Corpus Linguistics
 
-  Summer 2016 College English
+  Summer 2016 &nbsp;&nbsp; College English
 
-  Spring 2016 History of English Language
+  Spring 2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; History of English Language
 
-  Fall 2015 English Corpus Linguistics
+  Fall 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Corpus Linguistics
 {: .text-justify}
