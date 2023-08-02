@@ -4,7 +4,9 @@ permalink: /research/
 layout: single
 ---
 
-### Papers
+### Publications
+
+Cho, Juyeon, and Rebecca Tollan. 2023. Dependency formation interacts with case: Evidence from Korean double nominative constructions. Proceedings of the 97th Annual Meeting of the Linguistic Society of America. 8(1). 5493.
 
 Tomioka, Satoshi and Juyeon Cho. Submitted. The Honorific Mismatch in Korean and Japanese and its Implications in Pragmatic and Social Meaning. Contrastive Pragmatics.
 
@@ -15,6 +17,14 @@ Cho, Juyeon. 2017. Conditional-and Constructions: A Construction-based Approach.
 ---
 
 ### Presentations
+
+Ishii, Keita, and Juyeon Cho. 2023. On the Cross-Linguistic Variations in Utterance Honorific Embedding. Talk presented at the 13th International Workshop on Theoretical East Asian Linguistics. National Taiwan Normal University. May 12-14, 2023.
+
+Ishii, Keita, and Juyeon Cho. 2023. Morpho-syntax governs the embeddability of Utterance Honorifics: Evidence from Burmese. Talk presented at the 47th Penn Linguistics Conference. University of Pennsylvania. March 18-19, 2023
+
+Cho, Juyeon, and Rebecca Tollan. 2023. Dependency formation interacts with case: Evidence from Korean double nominative constructions. Talk presented at the 97th Annual Meeting of the Linguistic Society of America. Denver, CO. January 5-8, 2023.
+
+Cho, Juyeon, and Rebecca Tollan. 2022. The function of nominative case in relative clause processing (and vice versa). Poster presented at the 35th Annual Conference on Human Sentence Processing. March 24-26, 2022.
 
 Cho, Juyeon. 2021. Processing Filler-Gap Dependencies in Korean Double Nominative Constructions. Talk presented at the 22nd International Circle of Korean Linguistics (ICKL). August 17-18, 2021.
 
