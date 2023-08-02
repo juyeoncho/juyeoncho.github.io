@@ -8,6 +8,8 @@ main:
      url: /cv/
    - title: "Teaching"
      url: /teaching/
+   - title: "Contact"
+     url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
