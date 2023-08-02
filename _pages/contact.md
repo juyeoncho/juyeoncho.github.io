@@ -1,27 +1,10 @@
- location         : #"125 E. Main Street, Newark, DE 19716"
-  email            : #"jycho@udel.edu"
-  links:
-    - label: "jycho@udel.edu"
-      icon: "far fa-envelope"
-      url: "mailto:jycho@udel.edu"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Juyeon-Cho-3"
-    - label: "UD LingCogSci"
-      icon: "fas fa-university"
-      url: "https://www.lingcogsci.udel.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+---
+title: "Contact"
+permalink: /contact/
+layout: single
+---
+
+### :envelope:  jycho@udel.edu
+
+### :round_pushpin: 125 E. Main Street, Newark, DE 19716
+
