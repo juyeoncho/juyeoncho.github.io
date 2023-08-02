@@ -105,8 +105,8 @@ analytics:
 author:
   name             : #"Juyeon Cho 조주연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "University of Delaware"
-  location         : "125 E. Main Street, Newark, DE 19716"
+  bio              : #"University of Delaware"
+  location         : #"125 E. Main Street, Newark, DE 19716"
   email            : #"jycho@udel.edu"
   links:
     - label: "jycho@udel.edu"
