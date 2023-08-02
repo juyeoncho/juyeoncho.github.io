@@ -4,7 +4,7 @@ permalink: /contact/
 layout: single
 ---
 
-### ✉️  jycho@udel.edu
+### &#x2709  [jycho@udel.edu](jycho@udel.edu)
 
-### 📍 125 E. Main Street, Newark, DE 19716
+### &#x1F4CD 125 E. Main Street, Newark, DE 19716
 
