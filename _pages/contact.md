@@ -1,8 +1,9 @@
 ---
-title: "Contact"
+title: 
 permalink: /contact/
 layout: single
 ---
+<br>
 
 ### &#x1F4E7;  <a href="mailto:jycho@udel.edu">jycho@udel.edu</a>
 
