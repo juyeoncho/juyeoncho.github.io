@@ -4,7 +4,7 @@ permalink: /cv/
 layout: single
 ---
 <br>
-[CV_JuyeonCho.pdf]()
+[CV_JuyeonCho.pdf](https://github.com/juyeoncho/juyeoncho.github.io/files/)
 
 Last updated: April, 2023
 
