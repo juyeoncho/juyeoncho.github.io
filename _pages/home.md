@@ -2,7 +2,6 @@
 title: 
 permalink: /home/
 layout: single
-masthead: false
 ---
 <br>
 Welcome!
