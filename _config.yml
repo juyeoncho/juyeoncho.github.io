@@ -116,7 +116,7 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Juyeon-Cho-3"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: <i class="fab fa-linkedin" color="#3b3f41">
       url: "https://www.linkedin.com/in/juyeoncho/"
     - label: "UD LingCogSci"
       icon: "fas fa-university"
