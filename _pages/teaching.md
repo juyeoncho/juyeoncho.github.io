@@ -9,6 +9,8 @@ layout: single
 
 - **Teaching assistant**
 
+ Fall 2021  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGSC170 Introduction to CCognitive Science
+ 
   Spring 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING/CGSC496/696 Psycholinguistics
 
   Fall 2021  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LING101 Introduction to Linguistics
