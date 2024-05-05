@@ -13,7 +13,7 @@ In my ongoing project, I am exploring the impact of cognitive and grammatical fa
 
 ### Research interests
 
-- Syntax
-- Syntax/Semantics interface
+- Experimental Syntax
 - Psycholinguistics
+- Syntax-Morphology/Semantics Interface
 - East Asian languages
